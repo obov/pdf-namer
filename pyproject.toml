@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pdf-handler"
+name = "pdf-namer"
 version = "0.1.0"
 description = ""
 authors = ["obov <obov3e@gmail.com>"]
