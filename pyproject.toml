@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pdf-handler"
+version = "0.1.0"
+description = ""
+authors = ["obov <obov3e@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.37.0"
+pymupdf = "^1.24.9"
+pandas = "^2.2.2"
+pdfplumber = "^0.11.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
